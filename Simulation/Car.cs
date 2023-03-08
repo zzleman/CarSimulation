@@ -22,7 +22,7 @@
 
         }
 
-        //Masinin gedeceyi yolu burada deyin edir.
+        //Masinin gedeceyi yolu burada teyin edir.
         public int infoKm = 10;
 
 
