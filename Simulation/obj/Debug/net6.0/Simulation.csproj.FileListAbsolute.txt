@@ -1,0 +1,15 @@
+/Users/leman/Desktop/C# /Simulation/Simulation/obj/Debug/net6.0/Simulation.csproj.AssemblyReference.cache
+/Users/leman/Desktop/C# /Simulation/Simulation/obj/Debug/net6.0/Simulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leman/Desktop/C# /Simulation/Simulation/obj/Debug/net6.0/Simulation.AssemblyInfoInputs.cache
+/Users/leman/Desktop/C# /Simulation/Simulation/obj/Debug/net6.0/Simulation.AssemblyInfo.cs
+/Users/leman/Desktop/C# /Simulation/Simulation/obj/Debug/net6.0/Simulation.csproj.CoreCompileInputs.cache
+/Users/leman/Desktop/C# /Simulation/Simulation/bin/Debug/net6.0/Simulation
+/Users/leman/Desktop/C# /Simulation/Simulation/bin/Debug/net6.0/Simulation.deps.json
+/Users/leman/Desktop/C# /Simulation/Simulation/bin/Debug/net6.0/Simulation.runtimeconfig.json
+/Users/leman/Desktop/C# /Simulation/Simulation/bin/Debug/net6.0/Simulation.dll
+/Users/leman/Desktop/C# /Simulation/Simulation/bin/Debug/net6.0/Simulation.pdb
+/Users/leman/Desktop/C# /Simulation/Simulation/obj/Debug/net6.0/Simulation.dll
+/Users/leman/Desktop/C# /Simulation/Simulation/obj/Debug/net6.0/refint/Simulation.dll
+/Users/leman/Desktop/C# /Simulation/Simulation/obj/Debug/net6.0/Simulation.pdb
+/Users/leman/Desktop/C# /Simulation/Simulation/obj/Debug/net6.0/Simulation.genruntimeconfig.cache
+/Users/leman/Desktop/C# /Simulation/Simulation/obj/Debug/net6.0/ref/Simulation.dll
