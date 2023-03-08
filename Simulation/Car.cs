@@ -23,7 +23,7 @@
         }
 
         //Masinin gedeceyi yolu burada teyin edir.
-        public int infoKm = 10;
+        public double infoKm = 10;
 
 
         public double Drive()
