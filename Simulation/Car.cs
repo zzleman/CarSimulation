@@ -28,11 +28,7 @@
 
         public double Drive()
         {
-            if (currentFuel>=(currentFuel = currentFuel - (fuelFor1Km * infoKm)))
-            {
-                return currentFuel;
-            }
-         
+            currentFuel =  currentFuel - (fuelFor1Km * infoKm);
        
             return currentFuel;
         }
